@@ -1,0 +1,15 @@
+/*I chose to have my background a clean grey*/
+body {
+	background-color: grey;
+}
+
+/*I want my headling front and center*/
+h1 {
+	text-align: center;
+}
+
+/*Money green baby!*/
+.button1 {
+	background-color: green;
+}
+/*I checked all my CSS code in the W3Schools CSS Validator and there were no errors*/
